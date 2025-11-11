@@ -1,0 +1,26 @@
+{
+  "name": "clonedisneyplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oliveiraps/CloneDisneyPlus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oliveiraps/CloneDisneyPlus/issues"
+  },
+  "homepage": "https://github.com/Oliveiraps/CloneDisneyPlus#readme",
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.93.3"
+  }
+}
